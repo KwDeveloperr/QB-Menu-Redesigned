@@ -1,6 +1,7 @@
 <h1 align="center"QB Menu Redesigned</h1>
 
 <p align="center" >QB Menu Rediseñado por KW Dev</p>
+<h1>Menu, sencillo, bonito esteticamente, con animaciones al pulsar, con hover, fade in, fade out....</h1>
 
 <img align="center" src="https://i.postimg.cc/zvW02gg4/Captura-de-pantalla-2024-08-09-205324.png" alt="KwDeveloperr" align="center"/></p>
 
