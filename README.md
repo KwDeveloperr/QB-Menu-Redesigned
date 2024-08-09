@@ -7,9 +7,11 @@
 
 <img align="center" src="https://i.postimg.cc/zvW02gg4/Captura-de-pantalla-2024-08-09-205324.png" alt="KwDeveloperr" align="center"/></p>
 
-<h3 align="center">Mis estadistias</h3>
-<br align="center">
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KwDeveloperr&show_icons=true&theme=dark&locale=en&layout=compact" alt="KwDeveloperr" align="center"/></p>
+<hr width="100%" align="right">
+
+<img align="center" src="https://i.postimg.cc/nLP2HkK6/Captura-de-pantalla-2024-08-09-205342.png" alt="KwDeveloperr" align="center"/></p>
+
+<hr width="100%" align="right">
 
 <hr width="100%" >
 <h3 align="center">Conecta conmigo:</h3>
