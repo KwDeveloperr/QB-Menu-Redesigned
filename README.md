@@ -13,9 +13,5 @@
 
 <hr width="100%" align="right">
 
-<hr width="100%" >
-<h3 align="center">Conecta conmigo:</h3>
-<p align="center">
-</p>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=KwDeveloperr&label=Profile%20views&color=0e75b6&style=flat" alt="KwDeveloperr" /> </p>
+<h3 align="left">QB Menu Redesigned License</h3>
+
